@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "homepage": "https://github.com/vivekmittal/katas",
+  "authors": [
+    "Vivek <vmittal@aconex.com>"
+  ],
+  "description": "Trying Phonegap out",
+  "main": "css/index.css",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+
+  "dependencies": {
+    "bootstrap": ">=3.1.0",
+    "jquery": ">= 1.9.0"
+  }
+}
