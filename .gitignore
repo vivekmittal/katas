@@ -2,6 +2,5 @@
 
 #Phonegap exclusion
 platforms/
-bower_components/
 *.apk
 bin/
